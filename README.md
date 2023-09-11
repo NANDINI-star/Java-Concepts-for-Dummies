@@ -1,7 +1,7 @@
 # Java-Concepts-for-Dummies
 This is me trying to learn the basics of core Java. Once and for all ! 
 
-I was introduced to java roughly 10 years ago in 2014( junior high school). 
+I was introduced to java roughly 10 years ago in 2014( junior high school). And now I wanna know the basics of Java Backend Development using Jetty. Let's document that process to actually put the requirements out there.
 
 So it's now or never eh?!. 🧟‍♀️
 
