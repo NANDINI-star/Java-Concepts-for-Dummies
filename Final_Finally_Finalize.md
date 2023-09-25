@@ -33,7 +33,8 @@ class FinalVariable {
 }
 ````
 
-For a final reference variable you cannot change what object it refers to. You can, however, modify the object itself.
+For a final reference variable you cannot change what object it refers to. You can, however, modify the object itself. 
+To understand how object references in Java work, you must understand [this article on Java passes by value, and the value it passes is the reference.](https://github.com/NANDINI-star/Java-Concepts-for-Dummies/blob/main/Java_Pass_By_Value.md)
 
 ````
 class Reference{
